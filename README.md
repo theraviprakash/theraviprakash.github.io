@@ -10,16 +10,18 @@
 <li> BOOTSTRAP</li>
 </ul>
 <h2>Some of Screenshots:-</h2>
+
+
 ![INDEX PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot1.png)
 
 
 ![ABOUT PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot2.png)
 
 
-![TABLEOFCONTENT PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot3.png)
+![PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot3.png)
 
 
-![VIEWSOURCE PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot4.png)
+![PAGE](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot4.png)
 
 
-![HISTOGRAM](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot5.png)
+![Page](https://raw.github.com/raviprakash11/raviprakash11.github.io/master/screenshot/Screenshot5.png)
